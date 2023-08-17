@@ -43,6 +43,7 @@ if(numberInput %3 === 0){
     console.log(`El ${numberInput} no es divisible entre 3`)
 }
 
+
 let salario =parseInt(prompt("¿Cual es el salario del cliente?"));
 let tarjeta = null;
 
